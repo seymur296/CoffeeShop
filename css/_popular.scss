@@ -1,0 +1,36 @@
+.popular-coffes {
+    background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/img-14.jpg?v=1550668945);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 60px 0;
+    h1 {
+        color: white;
+        font-family: 'Spicy Rice', cursive;
+        font-weight: 350;
+        margin: 25px 0;
+    }
+    p {
+        color: white;
+        margin-bottom: 40px;
+    }
+    .kapeng {
+        .maragogipe {
+            padding: 10px;
+        transition: .7s ease-in-out;
+
+            h5{
+                color: white;
+                font-family: 'Spicy Rice', cursive;
+                font-weight: 350;
+            }
+        }
+        &:hover {
+            .maragogipe {
+                background-color:#B89675;
+                box-shadow: rgb(58, 56, 56) 0 0 20px;
+            }
+        }
+    }
+ 
+}

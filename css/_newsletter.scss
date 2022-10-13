@@ -1,0 +1,50 @@
+.newsletter {
+    text-align: center;
+    background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/bg-3_1920X.jpg?v=1550823264);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: static;
+    padding: 60px 0;
+    background-attachment: fixed;
+    .risus {
+        margin: 55px 0 65px 0;
+        h1 {
+            font-family: 'Spicy Rice', cursive;
+            color: white;
+            font-weight: 350;
+            margin-bottom: 20px;
+            font-size: 32px;
+        }
+        p {
+            color: white;
+            margin-bottom: 30px;
+        }
+        input {
+            width: 40%;
+            padding: 12px 10px;
+            outline: none;
+            margin-right: 13px;
+            &:focus {
+                opacity: 0.4;
+            }
+        }
+        button {
+            width: 15%;
+            padding: 11.5px 0 12px 0;
+            border: none;
+            font-size: 1.1rem;
+            color: white;
+            background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/t/2/assets/pattern.png?v=15633637692540156891);
+            background-position: center;
+            background-size: auto;
+            background-repeat: no-repeat;
+            background-color: #c1a07fb2;
+            transition: .3s ease-in-out;
+            &:hover {
+            background-color: #624C43;
+            }
+        }
+    }
+  
+}

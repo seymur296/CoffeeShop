@@ -1,0 +1,1051 @@
+.container2 {
+  width: 93%;
+  margin: auto;
+}
+
+.footer-top {
+  padding: 45px 0;
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/footer_fec90b03-18a6-4f11-89d6-03c89e1bca9c.jpg?v=1571318156);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.footer-top h3 {
+  color: #BE9C79;
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 400;
+}
+
+.footer-top ul {
+  padding: 0%;
+  margin: 0%;
+}
+
+.footer-top ul li {
+  list-style: none;
+  padding: 7px;
+}
+
+.footer-top ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.footer-top ul li a:hover {
+  color: #ddbd9e;
+}
+
+.footer-center {
+  padding: 50px 0;
+  background-color: #F9EFD4;
+}
+
+.footer-center .connect {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border-right: 2px solid white;
+}
+
+.footer-center .connect h3 {
+  color: #BE9C79;
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 400;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+.footer-center .connect a i {
+  padding: 7px;
+  color: black;
+}
+
+.footer-center .our-app {
+  text-align: center;
+}
+
+.footer-center .our-app h3 {
+  color: #BE9C79;
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 400;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.footer-bottom {
+  padding: 25px 0;
+  background-color: #271C1B;
+}
+
+.footer-bottom h3 {
+  font-size: 18px;
+  color: white;
+  font-weight: 350;
+}
+
+.footer-bottom h3 span {
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.footer-bottom h3 span:hover {
+  color: #CF3D0E;
+  cursor: pointer;
+}
+
+.footer-bottom a {
+  text-decoration: none;
+}
+
+.footer-bottom a img {
+  opacity: 0.6;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.footer-bottom a img:hover {
+  opacity: 1;
+}
+
+.coffee-types {
+  padding: 80px 0;
+}
+
+.coffee-types h1 {
+  color: #564242;
+  font-family: 'Spicy Rice', cursive;
+  margin: 10px 0;
+  font-size: 23px;
+  font-weight: 350;
+}
+
+.coffee-types p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #BE9C79;
+}
+
+.client {
+  padding: 60px 0;
+}
+
+.client h1 {
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 400;
+  font-size: 2rem;
+  color: #524343;
+  margin-bottom: 35px;
+}
+
+.client .slider .slider-items {
+  width: 265px;
+  height: 160px;
+  border: 1px solid #3f342f;
+  margin: 13px;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+.client .slider .slider-items img {
+  padding-top: 12px;
+}
+
+.client .slider .slider-items:hover {
+  border: 1px solid #E7A080;
+  cursor: pointer;
+}
+
+.client .slider .slick-prev {
+  display: none !important;
+}
+
+.client .slider .slick-next {
+  display: none !important;
+}
+
+.galery {
+  padding: 60px 0;
+}
+
+.galery h2 {
+  font-weight: 350;
+  font-family: 'Spicy Rice', cursive;
+  color: #524343;
+  margin: 25px;
+}
+
+.galery .cappuccino {
+  position: relative;
+  overflow: hidden;
+}
+
+.galery .cappuccino img {
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+}
+
+.galery .cappuccino:hover img {
+  -webkit-transform: scale(1.15);
+          transform: scale(1.15);
+}
+
+.galery .cappuccino:hover .boxes {
+  opacity: 1;
+}
+
+.galery .cappuccino .boxes {
+  position: absolute;
+  opacity: 0;
+  top: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: #76472da6;
+  padding: 60px;
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+}
+
+.galery .cappuccino .boxes h3 {
+  margin-top: 45px;
+  color: white;
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 350;
+}
+
+.galery .cappuccino .boxes p {
+  color: white;
+  margin: 20px;
+}
+
+.galery .cappuccino .boxes button {
+  padding: 10px 20px;
+  border: none;
+  font-size: 1.1rem;
+  color: white;
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/t/2/assets/pattern.png?v=15633637692540156891);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #c1a07fb2;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.galery .cappuccino .boxes button:hover {
+  background-color: #624C43;
+}
+
+.newsletter {
+  text-align: center;
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/bg-3_1920X.jpg?v=1550823264);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: static;
+  padding: 60px 0;
+  background-attachment: fixed;
+}
+
+.newsletter .risus {
+  margin: 55px 0 65px 0;
+}
+
+.newsletter .risus h1 {
+  font-family: 'Spicy Rice', cursive;
+  color: white;
+  font-weight: 350;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.newsletter .risus p {
+  color: white;
+  margin-bottom: 30px;
+}
+
+.newsletter .risus input {
+  width: 40%;
+  padding: 12px 10px;
+  outline: none;
+  margin-right: 13px;
+}
+
+.newsletter .risus input:focus {
+  opacity: 0.4;
+}
+
+.newsletter .risus button {
+  width: 15%;
+  padding: 11.5px 0 12px 0;
+  border: none;
+  font-size: 1.1rem;
+  color: white;
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/t/2/assets/pattern.png?v=15633637692540156891);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #c1a07fb2;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.newsletter .risus button:hover {
+  background-color: #624C43;
+}
+
+.popular-coffes {
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/img-14.jpg?v=1550668945);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 60px 0;
+}
+
+.popular-coffes h1 {
+  color: white;
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 350;
+  margin: 25px 0;
+}
+
+.popular-coffes p {
+  color: white;
+  margin-bottom: 40px;
+}
+
+.popular-coffes .kapeng .maragogipe {
+  padding: 10px;
+  -webkit-transition: .7s ease-in-out;
+  transition: .7s ease-in-out;
+}
+
+.popular-coffes .kapeng .maragogipe h5 {
+  color: white;
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 350;
+}
+
+.popular-coffes .kapeng:hover .maragogipe {
+  background-color: #B89675;
+  -webkit-box-shadow: #3a3838 0 0 20px;
+          box-shadow: #3a3838 0 0 20px;
+}
+
+.taste {
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/img-1.jpg?v=1550665169);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.taste h2 {
+  color: #514242;
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 350;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.taste h4 {
+  font-family: 'Spicy Rice', cursive;
+  color: #A45F41;
+  font-weight: 350;
+  margin-bottom: 20px;
+}
+
+.taste button {
+  width: 15%;
+  padding: 11.5px 0 12px 0;
+  border: none;
+  font-size: 1.1rem;
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/t/2/assets/pattern.png?v=15633637692540156891);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #BE9C79;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  border-radius: 2px;
+  margin-bottom: 30px;
+}
+
+.taste button:hover {
+  background-color: #624C43;
+}
+
+.taste button a {
+  text-decoration: none;
+  color: white;
+}
+
+.taste img {
+  margin-bottom: 40px;
+}
+
+.coffee-tea {
+  padding: 50px 0;
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/img-5_1920X.jpg?v=1550666285);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.coffee-tea h4 {
+  color: white;
+  margin: 20px 0;
+}
+
+.coffee-tea h1 {
+  font-family: 'Spicy Rice', cursive;
+  font-weight: 350;
+  color: white;
+  margin: 20px 0;
+  font-size: 3rem;
+}
+
+.coffee-tea h2 {
+  color: white;
+  margin: 20px 0;
+  font-weight: 350;
+}
+
+.coffee-tea button {
+  padding: 13px 22px;
+  border: none;
+  font-size: 1.1rem;
+  background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/t/2/assets/pattern.png?v=15633637692540156891);
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-color: #c1a07f;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+  margin: 10px 0;
+}
+
+.coffee-tea button:hover {
+  background-color: #624C43;
+}
+
+.coffee-tea button a {
+  text-decoration: none;
+  color: white;
+}
+
+.lacafe {
+  padding: 55px 0;
+}
+
+.lacafe h2 {
+  font-family: 'Spicy Rice', cursive;
+  font-size: 25px;
+  color: #514242;
+}
+
+.lacafe .milk h3 {
+  font-family: 'Spicy Rice', cursive;
+  color: #9D6B58;
+  font-size: 20px;
+  font-weight: 350;
+  padding-top: 10px;
+}
+
+.lacafe .milk:hover h3 {
+  color: #BE9C7A;
+}
+
+#header {
+  top: -100px;
+}
+
+#header.header-active {
+  position: fixed;
+  background-color: #301914;
+  width: 100%;
+  z-index: 99;
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+  top: 0;
+}
+
+#header .header-middle {
+  position: relative;
+  z-index: 99;
+}
+
+#header .header-middle .menu ul li {
+  padding: 30px 20px;
+  list-style: none;
+}
+
+#header .header-middle .menu ul li a {
+  text-decoration: none;
+  color: #ffff;
+  font-weight: 600;
+  -webkit-transition: .3S ease-in-out;
+  transition: .3S ease-in-out;
+}
+
+#header .header-middle .menu ul li a:hover {
+  color: #B79675;
+}
+
+#header .header-middle .menu ul li.dropped-home a {
+  color: #B79675;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#header .header-middle .menu ul li.big-dropped-li {
+  position: relative;
+}
+
+#header .header-middle .menu ul li.big-dropped-li:hover .big-dropped {
+  opacity: 1;
+  visibility: visible;
+  top: 100%;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 999;
+  background: white;
+  opacity: 0;
+  visibility: hidden;
+  width: 100%;
+  padding: 35px;
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+  -webkit-box-shadow: 0 0 20px 0 #ccc;
+          box-shadow: 0 0 20px 0 #ccc;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-item {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-item h5 {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #2b150d;
+  font-weight: 500;
+  font-family: 'Spicy Rice', cursive;
+  letter-spacing: .05em;
+  margin-left: 4px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-item ul li {
+  padding: 5px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-item ul li a {
+  padding: 10px 0;
+  color: black;
+  font-weight: 400;
+  -webkit-transition: .3s ease-in;
+  transition: .3s ease-in;
+  text-decoration: none;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-item ul li a:hover {
+  color: #B79675;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-item ul li a::before {
+  content: '\f105';
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  font-size: 13px;
+  color: #BE9C79;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 3px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img img {
+  height: 400px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img .dropped-min-img .img-coffee-1 {
+  height: 300px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img .dropped-min-img .img-coffee-2 {
+  height: 250px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img .dropped-min-img .img-coffee-3 {
+  height: 508px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img .dropped-min-img h6 {
+  margin: 30px 0 0 50px;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img .dropped-min-img h6 a {
+  color: black;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+  text-decoration: none;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img .dropped-min-img h6 a:hover {
+  color: #B79675;
+}
+
+#header .header-middle .menu ul li.big-dropped-li .big-dropped .dropped-img .dropped-min-img span {
+  margin-left: 100px;
+  color: #B79675;
+}
+
+#header .header-middle .menu ul li.big-dropped-li {
+  position: static !important;
+}
+
+#header .header-middle .menu ul li.dropped-li {
+  position: relative;
+}
+
+#header .header-middle .menu ul li.dropped-li:hover .dropped {
+  opacity: 1;
+  visibility: visible;
+  top: 100%;
+}
+
+#header .header-middle .menu ul li.dropped-li .dropped {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 99;
+  background: white;
+  opacity: 0;
+  visibility: hidden;
+  min-width: 200px;
+  padding: 25px 0;
+  -webkit-transition: .4s ease-in;
+  transition: .4s ease-in;
+  -webkit-box-shadow: 0 0 20px 0 #ccc;
+          box-shadow: 0 0 20px 0 #ccc;
+}
+
+#header .header-middle .menu ul li.dropped-li .dropped .dropped-item {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+#header .header-middle .menu ul li.dropped-li .dropped .dropped-item ul li {
+  padding: 5px;
+}
+
+#header .header-middle .menu ul li.dropped-li .dropped .dropped-item ul li a {
+  color: black;
+  -webkit-transition: .3s ease-in;
+  transition: .3s ease-in;
+  padding: 10px 0;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+#header .header-middle .menu ul li.dropped-li .dropped .dropped-item ul li a:hover {
+  color: #B79675;
+}
+
+#header .header-middle .header-right i {
+  color: white;
+  cursor: pointer;
+}
+
+#header .header-middle .header-right .header-search i {
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+#header .header-middle .header-right .header-search i:hover {
+  color: #B79675;
+}
+
+#header .header-middle .header-right .header-usd select {
+  background: transparent;
+  color: white;
+  border: none;
+  font-weight: 700;
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+#header .header-middle .header-right .header-usd select option {
+  color: black;
+  text-transform: uppercase;
+}
+
+#header .header-middle .header-right .header-usd select:hover {
+  color: #B79675;
+}
+
+#header .header-middle .header-right .header-user {
+  position: relative;
+}
+
+#header .header-middle .header-right .header-user i {
+  -webkit-transition: .2s ease-in-out;
+  transition: .2s ease-in-out;
+}
+
+#header .header-middle .header-right .header-user i:hover {
+  color: #B79675;
+}
+
+#header .header-middle .header-right .header-user .user-box {
+  position: absolute;
+  right: 0px;
+  top: 50px;
+  min-width: 200px;
+  z-index: 99;
+  background: white;
+  opacity: 0;
+  visibility: hidden;
+  padding: 15px 0 0 0;
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+}
+
+#header .header-middle .header-right .header-user .user-box::before {
+  content: '';
+  height: 0;
+  right: 0px;
+  position: absolute;
+  top: -8px;
+  width: 0;
+  border-bottom: 8px solid white;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+}
+
+#header .header-middle .header-right .header-user .user-box ul li {
+  line-height: 2rem;
+}
+
+#header .header-middle .header-right .header-user .user-box ul li a {
+  color: black;
+  font-family: 'roboto';
+  text-decoration: none;
+}
+
+#header .header-middle .header-right .header-user .user-box ul li a:hover {
+  color: #B79675;
+}
+
+#header .header-middle .header-right .header-user:hover .user-box {
+  opacity: 1;
+  visibility: visible;
+}
+
+#header .header-middle .nav-menu i {
+  color: white;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  #header {
+    position: relative;
+    top: 0;
+  }
+  #header .menu {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    left: -100%;
+    background: black;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+  }
+  #header .menu.menu-active {
+    opacity: 1;
+    visibility: visible;
+    left: 0;
+  }
+  #header .menu ul {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+#slider {
+  margin-top: -85px;
+}
+
+#slider:hover .next {
+  display: block;
+}
+
+#slider:hover .prev {
+  display: block;
+}
+
+#slider .next,
+#slider .prev {
+  position: absolute;
+  top: 45%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  padding: 15px;
+  cursor: pointer;
+  color: white;
+  font-weight: 900;
+  font-size: 40px;
+  display: none;
+}
+
+#slider .next {
+  right: 15px;
+}
+
+#slider .prev {
+  left: 15px;
+}
+
+#slider img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#slider.active::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #ccc;
+  width: 100%;
+  height: 89%;
+  -webkit-animation: sliderAni .7s forwards;
+          animation: sliderAni .7s forwards;
+}
+
+@-webkit-keyframes sliderAni {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes sliderAni {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+#rich-coffee .richCoffee-text {
+  margin-top: 60px;
+}
+
+#rich-coffee .richCoffee-text h3 {
+  font-family: 'Spicy Rice';
+  color: #524343;
+  font-size: 31px;
+  letter-spacing: .05em;
+}
+
+#rich-coffee .richCoffee-left .croissant {
+  margin-top: 50px;
+}
+
+#rich-coffee .richCoffee-left .croissant .croissant-left {
+  text-align: right;
+}
+
+#rich-coffee .richCoffee-left .croissant .croissant-left h4 {
+  font-family: 'Spicy Rice', cursive;
+  color: #874d34;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+#rich-coffee .richCoffee-left .croissant .croissant-right .rotate {
+  margin-left: 35px;
+}
+
+#rich-coffee .richCoffee-left .croissant:hover .rotate {
+  -webkit-animation: rotate .6s ease-in-out both;
+          animation: rotate .6s ease-in-out both;
+}
+
+#rich-coffee .richCoffee-left .croissant:hover h4 {
+  color: #BE9C79;
+}
+
+#rich-coffee .richCoffee-right .croissant {
+  margin-top: 50px;
+}
+
+#rich-coffee .richCoffee-right .croissant .croissant-left h4 {
+  font-family: 'Spicy Rice', cursive;
+  color: #874d34;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+#rich-coffee .richCoffee-right .croissant .croissant-right .rotate {
+  margin-right: 35px;
+}
+
+#rich-coffee .richCoffee-right .croissant:hover .rotate {
+  -webkit-animation: rotate .6s ease-in-out both;
+          animation: rotate .6s ease-in-out both;
+}
+
+#rich-coffee .richCoffee-right .croissant:hover h4 {
+  color: #BE9C79;
+}
+
+#rich-coffee .richCoffee-middle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 40px;
+}
+
+@-webkit-keyframes rotate {
+  0% {
+    -webkit-animation: rotateY(0);
+    -webkit-transform: rotateY(0);
+            transform: rotateY(0);
+  }
+  100% {
+    -webkit-animation: rotateY(180deg);
+    -webkit-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    -webkit-animation: rotateY(0);
+    -webkit-transform: rotateY(0);
+            transform: rotateY(0);
+  }
+  100% {
+    -webkit-animation: rotateY(180deg);
+    -webkit-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+  }
+}
+
+#products .product-list .product-item {
+  margin-bottom: 20px;
+}
+
+#products .product-list .product-item img {
+  height: 300px;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#products .product-list .product-item img:hover {
+  opacity: .7;
+}
+
+#menu .menu-text h2 {
+  text-align: center;
+  font-family: Spicy Rice;
+  color: #524343;
+  padding: 50px 0;
+  letter-spacing: .05em;
+}
+
+#menu .menu-left {
+  margin-bottom: 35px;
+}
+
+#menu .menu-left:hover h4::before {
+  width: 100%;
+}
+
+#menu .menu-left:hover h4::after {
+  width: 0;
+}
+
+#menu .menu-left a {
+  position: relative;
+  display: table-cell;
+}
+
+#menu .menu-left a h4 {
+  position: relative;
+  font-family: Spicy Rice;
+  letter-spacing: .05em;
+  color: #874d34;
+  font-size: 20px;
+  right: 0;
+}
+
+#menu .menu-left a h4::after {
+  content: '';
+  position: absolute;
+  height: 1px;
+  width: 100%;
+  border-bottom: 1px dashed;
+  bottom: 0;
+  left: 0px;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+#menu .menu-left a h4::before {
+  content: '';
+  position: absolute;
+  height: 1px;
+  width: 0;
+  border-bottom: 1px solid;
+  bottom: 0;
+  left: 0px;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+#menu .menu-left h6 {
+  display: table-cell;
+  width: 1%;
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 20px;
+  padding-left: 5px;
+}
+/*# sourceMappingURL=style.css.map */

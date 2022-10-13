@@ -1,0 +1,44 @@
+.coffee-tea {
+    padding: 50px 0;
+    background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/files/img-5_1920X.jpg?v=1550666285);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    h4 {
+      color: white;
+      margin: 20px 0;
+    }
+    h1 {
+       font-family: 'Spicy Rice', cursive;
+       font-weight: 350;
+        color: white;
+        margin: 20px 0;
+        font-size: 3rem;
+
+    }
+    h2 {
+        color: white;
+      margin: 20px 0;
+       font-weight: 350;
+     }
+     button {
+        padding: 13px 22px;
+        border: none;
+        font-size: 1.1rem;
+        background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/t/2/assets/pattern.png?v=15633637692540156891);
+        background-position: center;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-color: #c1a07f;
+        transition: .3s ease-in-out;
+        margin: 10px 0;
+        &:hover {
+        background-color: #624C43;
+        }
+        a {
+            text-decoration: none;
+        color: white;
+
+        }
+    }
+}

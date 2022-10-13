@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "image":"img/product/product66.jpg",
+        "name":"Arabica Coffee Bean - 1 kg / Brown",
+        "price":12
+        
+    },
+    {
+        "id":2,
+        "image":"img/product/product6.jpg",
+        "name":"Kona Coffee Bean - 1 kg / Brown",
+        "price":21
+    },
+    {
+        "id":3,
+        "image":"img/product/product7.jpg",
+        "name":"Catuai Coffee Bean - 3 kg / Sandal",
+        "price":39
+
+
+    },
+    {
+        "id":4,
+        "image":"img/product/product4.jpg",
+        "name":"Gusto Coffee Bean - 2 kg / Black",
+        "price":44
+    },
+    {
+        "id":5,
+        "image":"img/product/product1.jpg",
+        "name":"Maragogipe Coffee Bean - 3 kg / Brown",
+        "price":52
+    },
+    {
+        "id":6,
+        "image":"img/product/product8.jpg",
+        "name":"Geisha Coffee Bean - 2 kg / Brown",
+        "price":9
+    },
+    {
+        "id":7,
+        "image":"img/product/product3.jpg",
+        "name":"Coffee Bean Sachet - 2 kg / Brown",
+        "price":17
+    },
+    {
+        "id":8,
+        "image":"img/product/product5.jpg",
+        "name":"Jamber Coffee Bean - 1 kg / Green",
+        "price":11
+    }
+]

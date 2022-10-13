@@ -1,0 +1,16 @@
+#products{
+    .product-list{
+        .product-item{
+            margin-bottom: 20px;
+           
+            img{
+                height: 300px;
+                width: 100%;
+                object-fit: cover;
+                &:hover{
+                    opacity: .7 ;
+                }
+            }
+        }
+    }
+}

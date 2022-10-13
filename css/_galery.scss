@@ -1,0 +1,62 @@
+.galery {
+    padding: 60px 0;
+    h2 {
+        font-weight: 350;
+        font-family: 'Spicy Rice', cursive;
+        color: #524343;
+        margin:25px;
+    }
+    .cappuccino {
+        position: relative;
+        overflow: hidden;
+        img {
+        transition: .4s ease-in-out;
+        
+        }
+        &:hover {
+            img {
+                transform: scale(1.15);
+            }
+            .boxes {
+                opacity: 1;
+          
+            }
+        }
+        .boxes {
+         position: absolute;
+         opacity: 0;
+         top: 0%;
+         width: 100%;
+         height: 100%;
+         background-color: #76472da6;
+         padding: 60px;
+         transition: .4s ease-in-out;
+   
+         h3 {
+             margin-top: 45px;
+             color: white;
+             font-family: 'Spicy Rice', cursive;
+             font-weight: 350;
+         }
+         p {
+             color: white;
+             margin: 20px;
+         }
+         button {
+            padding: 10px 20px;
+            border: none;
+            font-size: 1.1rem;
+            color: white;
+            background-image: url(https://cdn.shopify.com/s/files/1/0169/4053/1812/t/2/assets/pattern.png?v=15633637692540156891);
+            background-position: center;
+            background-size: auto;
+            background-repeat: no-repeat;
+            background-color: #c1a07fb2;
+            transition: .3s ease-in-out;
+            &:hover {
+            background-color: #624C43;
+         }
+     }
+   }
+  }
+}

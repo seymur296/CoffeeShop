@@ -1,0 +1,106 @@
+#rich-coffee {
+    .richCoffee-text {
+        margin-top: 60px;
+
+        h3 {
+            font-family: 'Spicy Rice';
+            color: #524343;
+            font-size: 31px;
+            letter-spacing: .05em;
+        }
+    }
+
+    .richCoffee-left {
+        .croissant {
+            margin-top: 50px;
+
+            .croissant-left {
+                text-align: right;
+
+                h4 {
+                    font-family: 'Spicy Rice', cursive;
+                    color: #874d34;
+                    transition: .3s ease-in-out;
+                }
+
+            }
+
+            .croissant-right {
+                .rotate {
+                    margin-left: 35px;
+
+                   
+                }
+            }
+
+            &:hover .rotate {
+                animation: rotate .6s ease-in-out both;
+
+            }
+            &:hover h4{
+                color: #BE9C79;
+            }
+
+
+        }
+    }
+
+    .richCoffee-right {
+
+
+        .croissant {
+            margin-top: 50px;
+
+            .croissant-left {
+                h4 {
+                    font-family: 'Spicy Rice', cursive;
+                    color: #874d34;
+                    transition: .3s ease-in-out;
+                }
+            }
+
+            .croissant-right {
+                .rotate {
+                    margin-right: 35px;
+
+                }
+            }
+
+            &:hover .rotate {
+                animation: rotate .6s ease-in-out both;
+
+
+
+            }
+            &:hover h4{
+                color: #BE9C79;
+            }
+
+        }
+
+    }
+
+    .richCoffee-middle {
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+}
+
+
+
+@keyframes rotate {
+    0% {
+        -webkit-animation: rotateY(0);
+        transform: rotateY(0);
+    }
+
+    100% {
+        -webkit-animation: rotateY(180deg);
+
+        transform: rotateY(180deg);
+    }
+
+
+
+}

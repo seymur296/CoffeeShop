@@ -1,0 +1,33 @@
+.client {
+    padding: 60px 0;
+    h1 {
+        font-family: 'Spicy Rice', cursive;
+        font-weight: 400;
+        font-size: 2rem;
+        color: #524343;
+        margin-bottom: 35px;
+    }
+    .slider {
+        .slider-items {
+            width: 265px;
+            height: 160px;
+            border: 1px solid #3f342f;
+            margin: 13px;
+            transition: .2s ease-in-out;
+            img {
+                padding-top: 12px;
+            }
+            &:hover {
+            border: 1px solid #E7A080;
+            cursor: pointer;
+    
+            }
+         }
+         .slick-prev  {
+             display: none !important;
+         }
+         .slick-next {
+             display: none !important;
+         }
+     }
+}

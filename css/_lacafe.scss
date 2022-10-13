@@ -1,0 +1,24 @@
+.lacafe {
+    padding:55px 0;
+    h2 {
+        font-family: 'Spicy Rice', cursive;
+        font-size: 25px;
+        color: #514242;
+    }
+    .milk {
+        h3 {
+        font-family: 'Spicy Rice', cursive;
+        color: #9D6B58;
+        font-size: 20px;
+        font-weight: 350;
+        padding-top: 10px;
+        }
+        &:hover {
+            h3 {
+                color: #BE9C7A;
+            }
+        }
+    }
+}
+
+
